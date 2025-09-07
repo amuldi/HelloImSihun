@@ -3,7 +3,9 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hello </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hello, I'm a college student and a developer</li></li>I'm currently majoring in big data</li></li>I have many shortcomings, but I'll work hard to achieve great results </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Hello, I'm a college student and a developer.
+        I'm currently majoring in big data.
+        I have many shortcomings, but I'll work hard to achieve great results 🔥 </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
